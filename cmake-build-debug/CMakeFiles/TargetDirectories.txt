@@ -1,0 +1,9 @@
+/home/cris/CLionProjects/Proyecto1Daaatos2/cmake-build-debug/CMakeFiles/install/strip.dir
+/home/cris/CLionProjects/Proyecto1Daaatos2/cmake-build-debug/CMakeFiles/install/local.dir
+/home/cris/CLionProjects/Proyecto1Daaatos2/cmake-build-debug/CMakeFiles/install.dir
+/home/cris/CLionProjects/Proyecto1Daaatos2/cmake-build-debug/CMakeFiles/list_install_components.dir
+/home/cris/CLionProjects/Proyecto1Daaatos2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/cris/CLionProjects/Proyecto1Daaatos2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/cris/CLionProjects/Proyecto1Daaatos2/cmake-build-debug/CMakeFiles/Proyecto1Daaatos2.dir
+/home/cris/CLionProjects/Proyecto1Daaatos2/cmake-build-debug/CMakeFiles/main.dir
+/home/cris/CLionProjects/Proyecto1Daaatos2/cmake-build-debug/CMakeFiles/Proyecto1Daaatos2_autogen.dir
